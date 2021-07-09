@@ -11,7 +11,7 @@ title: Préparer l'environnement
 
 3. Allez sur https://nodejs.org/en/download/ puis installez la dernière version de NodeJs.
 
-![alt-text](assets/envDev/5.png)
+![alt-text](5.png)
 
 ```console
 > node -v
@@ -42,9 +42,7 @@ title: Préparer l'environnement
 > react-native run-android
 ```
 
-![alt-text](2.png)
-
 9. Dés que l'application est lancée vérifiez que le hot reloading marche bien en s'assurant que l'écran s'actualise lors d'un CTRL+S éxécuté sur une vue : 
 
-![alt-text](4.png)
+
 
