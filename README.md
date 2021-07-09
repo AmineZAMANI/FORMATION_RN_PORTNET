@@ -7,7 +7,7 @@ title: Préparer l'environnement
 
 2. Installez le plugin React native Tools
 
-![](assets/visualcode.png)
+![](visualcode.png)
 
 3. Allez sur https://nodejs.org/en/download/ puis installez la dernière version de NodeJs.
 
