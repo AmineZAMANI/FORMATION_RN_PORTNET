@@ -1,7 +1,4 @@
----
-id: setupenv
-title: Préparer l'environnement
-
+---title: Préparer l'environnement
 
 1. Installez l'outil [VisualCode](https://code.visualstudio.com/) puis ouvrez le dossier du projet.
 
